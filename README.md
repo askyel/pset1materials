@@ -5,7 +5,7 @@
 
 We are interested in predicting ICU mortality from clinical records. At this point, you should have access to the [MIMIC-III](https://mimic.physionet.org/gettingstarted/access/) dataset and to Physionet worksplace. If you do not, please refer to Problem Set 0. If you still have problems with access to the data, please contact the course staff through Piazza.
 
-Although all data comes from MIMIC-III, we have parsed it for your convenience. You may download our derived data using [our class workspace on Physionet](https://physionet.org/works/MIMICIIIDerivedDataRepository/files/approved/hst956-2019-ps1/). Other code is available on the Github repo
+Although all data comes from MIMIC-III, we have parsed it for your convenience. You may download our derived data using [our class workspace on Physionet](https://physionet.org/works/MIMICIIIDerivedDataRepository/files/approved/hst956-2019-ps1/). Other code is available on the Github repo.
 
 For consistency, we refer to patients with `train=1` as training data, patients with `valid=1` as validation data, and patients with `test=1` as test data.
 
